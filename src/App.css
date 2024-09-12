@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.dice-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.dice {
+  width: 100px;
+  height: 100px;
+}
